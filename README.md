@@ -1,10 +1,10 @@
 # LIS545FinalProject
 The files included in the repository include: 
   Data Files-
-    1. A tagged image file (.tif) of a line graph correlating the sample size of volunteers and the significant correlated features of speech along the lines of that sample size's age, gender, and Big Five personality test results.
-    2. A tagged image file (.tif) of word clusters representing words and phrases that distinguish groups with high agreeableness, low agreeableness, high conscientiousness, low conscientiousness, high openness, and low openness.
-    3. A Microsoft Excel worksheet showing the twenty most prevalent words and their frequencies for each of the topics identified through Latent Dirichlet Allocation.
-    4. a .pdf of a table showing the prediction results for determing personality features based on language analysis.
+    1. Figure_S1: A tagged image file (.tif) of a line graph correlating the sample size of volunteers and the significant correlated features of speech along the lines of that sample size's age, gender, and Big Five personality test results.
+    2. Figure_S2: A tagged image file (.tif) of word clusters representing words and phrases that distinguish groups with high agreeableness, low agreeableness, high conscientiousness, low conscientiousness, high openness, and low openness.
+    3. Table_S1: A Microsoft Excel worksheet showing the twenty most prevalent words and their frequencies for each of the topics identified through Latent Dirichlet Allocation.
+    4. Table_S2: A .pdf of a table showing the prediction results for determing personality features based on language analysis.
   Metadata Files-
     1. An ___ file of the dataset's metadata following ___ standards.
   A report -
