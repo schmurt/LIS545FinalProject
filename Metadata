@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resource xmlns:xsi="https://figshare.com/articles/dataset/_Personality_Gender_and_Age_in_the_Language_of_Social_Media_The_Open_Vocabulary_Approach_/808535"
+xmlns="https://figshare.com/articles/dataset/_Personality_Gender_and_Age_in_the_Language_of_Social_Media_The_Open_Vocabulary_Approach_/808535?file=1216224"
+xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier identifierType="URL"> https://figshare.com/articles/dataset/_Personality_Gender_and_Age_in_the_Language_of_Social_Media_The_Open_Vocabulary_Approach_/808535?file=1216224 </identifier>
+	<creators>
+		<creator>
+			<creatorName nameType="Personal">Schwartz, H. Andrew</creatorName>
+			<givenName>H. Andrew</givenName>
+			<familyName>Schwartz</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0002-6383-3339</nameIdentifier>
+			<affiliation> affiliationIdentifier="https://ror.org/00b30xv10" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">UniversityofPennsylvania</affiliation>
+		</creator>
+		<creator>
+			<creatorName nameType="Personal">Eichstaedt, Johannes C.</creatorName>
+			<givenName>Johannes C.</givenName>
+			<familyName>Eichstaedt</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0002-3220-2972</nameIdentifier>
+			<affiliation> affiliationIdentifier="https://ror.org/00b30xv10" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">UniversityofPennsylvania</affiliation>	
+		</creator>
+		<creator>
+			<creatorName nameType="Personal">Kern, Margaret L.</creatorName>
+			<givenName>Margaret L.</givenName>
+			<familyName>Kern</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0003-4300-598X</nameIdentifier>
+			<affiliation> affiliationIdentifier="https://ror.org/00b30xv10" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">UniversityofPennsylvania</affiliation>	
+		</creator>	
+		<creator>
+			<creatorName nameType="Personal">Dziurzynski, Lukasz</creatorName>
+			<givenName>Lukasz</givenName>
+			<familyName>Dziurzynski</familyName>
+			<affiliation> affiliationIdentifier="https://ror.org/00b30xv10" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">UniversityofPennsylvania</affiliation>	
+		</creator>	
+		<creator>
+			<creatorName nameType="Personal">Ramones, Stephanie M.</creatorName>
+			<givenName>Stephanie M.</givenName>
+			<familyName>Ramones</familyName>
+			<affiliation> affiliationIdentifier="https://ror.org/00b30xv10" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">UniversityofPennsylvania</affiliation>	
+		</creator>	
+		<creator>
+			<creatorName nameType="Personal">Agrawal, Megha</creatorName>
+			<givenName>Megha</givenName>
+			<familyName>Agrawal</familyName>
+			<affiliation> affiliationIdentifier="https://ror.org/00b30xv10" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">UniversityofPennsylvania</affiliation>	
+		</creator>	
+		<creator>
+			<creatorName nameType="Personal">Shah, Achal</creatorName>
+			<givenName>Shah</givenName>
+			<familyName>Achal</familyName>
+			<affiliation> affiliationIdentifier="https://ror.org/00b30xv10" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">UniversityofPennsylvania</affiliation>	
+		</creator>	
+		<creator>
+			<creatorName nameType="Personal">Kosinski, Michal</creatorName>
+			<givenName>Kosinski</givenName>
+			<familyName>Michal</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0003-2936-4775</nameIdentifier>
+			<affiliation> 
+			<affiliation> affiliationIdentifier="https://ror.org/00b30xv10" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">UniversityofPennsylvania</affiliation>	
+		</creator>	
+		<creator>
+			<creatorName nameType="Personal">Stillwell, David</creatorName>
+			<givenName>David</givenName>
+			<familyName>Stillwell</familyName>
+			<affiliation> 
+			<affiliation> affiliationIdentifier="https://ror.org/00b30xv10" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">UniversityofPennsylvania</affiliation>	
+		</creator>	
+		<creator>
+			<creatorName nameType="Personal">Seligman, Martin E. P.</creatorName>
+			<givenName>Martin E. P.</givenName>
+			<familyName>Seligman</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0002-2028-0009</nameIdentifier>
+			<affiliation> 
+			<affiliation> affiliationIdentifier="https://ror.org/00b30xv10" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">UniversityofPennsylvania</affiliation>	
+		</creator>	
+		<creator>
+			<creatorName nameType="Personal">Ungar, Lyle H.</creatorName>
+			<givenName>Lyle H.</givenName>
+			<familyName>Ungar</familyName>
+			<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0003-2047-1443</nameIdentifier>
+			<affiliation> 
+			<affiliation> affiliationIdentifier="https://ror.org/00b30xv10" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">UniversityofPennsylvania</affiliation>	
+		</creator>	
+	</creators>
+	<titles>
+		<title xml:lang="en">Personality, Gender, and Age in the Language of Social Media</title>
+		<title titleType="Subtitle" xml:lang="en">The Open-Vocabulary Approach</title>
+	</titles>
+	<publisher xml:lang="en" publisherIdentifier="https://ror.org/041mxqs23" publisherIdentifierScheme="ROR" schemeURI="https://ror.org/">Figshare</publisher>
+	<publicationYear>2013</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+	<subjects>
+		<subject Psychology </subject>
+	</subjects>
+	<dates>
+		<date dateType="Other" dateInformation="Posted">2013-09-25</date>
+		<date dateType="Other" dateInformation="First online date">2016-01-18</date>
+	</dates>
+	<language>en</language>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="doi" relationType="IsSupplementTo" resourceTypeGeneral="ResearchArticle">https://doi.org/10.1371/journal.pone.0073791</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>9.01MB</size>
+		<size>4 files</size>
+	</sizes>
+	<formats>
+		<format>tif</format>
+		<format>xls</format>
+		<format>pdf</format>
+	</formats>
+	<rightsList>
+		<rights xml:lang="en" schemeURI="https://spdx.org/licenses/" rightsIdentifierScheme="SPDX" rightsIdentifier="CC-BY-4.0" rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</rights>
+	</rightsList>
+	<descriptions>
+		<description xml:lang="en" descriptionType="Abstract">We analyzed 700 million words, phrases, and topic instances collected from the Facebook messages of 75,000 volunteers, who also took standard personality tests, and found striking variations in language with personality, gender, and age. In our open-vocabulary technique, the data itself drives a comprehensive exploration of language that distinguishes people, finding connections that are not captured with traditional closed-vocabulary word-category analyses. Our analyses shed new light on psychosocial processes yielding results that are face valid (e.g., subjects living in high elevations talk about the mountains), tie in with other research (e.g., neurotic people disproportionately use the phrase ‘sick of’ and the word ‘depressed’), suggest new hypotheses (e.g., an active life implies emotional stability), and give detailed insights (males use the possessive ‘my’ when mentioning their ‘wife’ or ‘girlfriend’ more often than females use ‘my’ with ‘husband’ or 'boyfriend’). To date, this represents the largest study, by an order of magnitude, of language and personality.
+		</description>
+	</descriptions>
+</resource>
