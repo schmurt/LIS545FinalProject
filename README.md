@@ -6,7 +6,7 @@ The files included in the repository include:
     3. Table_S1: A Microsoft Excel worksheet showing the twenty most prevalent words and their frequencies for each of the topics identified through Latent Dirichlet Allocation.
     4. Table_S2: A .pdf of a table showing the prediction results for determing personality features based on language analysis.
   Metadata Files-
-    1. An ___ file of the dataset's metadata following ___ standards.
+    1. An XML file of the dataset's metadata following the DataCite metadate schema.
   A final report -
     1. The data and metadata profile of  the Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach dataset.
     2. A Repository Profile of PsychArchives.
