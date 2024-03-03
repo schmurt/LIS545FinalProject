@@ -16,7 +16,7 @@ The files included in the repository include:
    
     1. An XML file of the dataset's metadata following the DataCite metadate schema.
   
-## A final report -
+## A Final Report -
     
     1. The data and metadata profile of  the Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach dataset.
     
